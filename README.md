@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Thalles Leite</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
+<h3 align="center">Desenvolvedor Web Front-End</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=thalles-leite&label=Profile%20views&color=0e75b6&style=flat" alt="thalles-leite" /> </p>
 
