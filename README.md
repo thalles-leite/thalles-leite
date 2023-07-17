@@ -5,7 +5,7 @@
 <p align="center"> Engenheiro elétricista com especialização em Engenharia de Software, busco oportunidade como Desenvolvedor Web Front-End, em 2022, ingressei na Trybe, escola de tecnologia onde pude desenvolver diversos projetos e ampliar meus conhecimentos em HTML, CSS, JavaScript, React.js, Node.js, MySQL, Express e Jest, entre outras. Tenho experiência como Coordenador de Projetos na ADM Engenharia, liderei equipes multidisciplinares e garanti a entrega bem-sucedida de projetos de distribuição de média tensão, priorizando qualidade, prazos e conformidade técnica.</p>
 
 <hr>
-👨‍💻 Todos os meus projetos estão disponíveis em [https://thalles-leite.vercel.app/](https://thalles-leite.vercel.app/)
+👨‍💻 Todos os meus projetos estão disponíveis em https://thalles-leite.vercel.app/
 
 
 📫 Email: **eng.thallesleite@gmail.com**
