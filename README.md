@@ -10,9 +10,6 @@
 📫 Email: **eng.thallesleite@gmail.com**
 
 <hr>
-<p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalles-leite)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <div align="center">
   <a href="https://github.com/thalles-leite" target="_blank">
