@@ -7,9 +7,20 @@
 <hr>
 👨‍💻 Todos os meus projetos estão disponíveis em https://thalles-leite.vercel.app/
 
-
 📫 Email: **eng.thallesleite@gmail.com**
 
+<hr>
+<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalles-leite)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<div align="center">
+  <a href="https://github.com/thalles-leite" target="_blank">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thalles-leite&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalles-leite&layout=compact&langs_count=7&theme=react" />
+</div>
+
+<hr>
 <h3 align="left">Linguagens e ferramentas:
 :</h3>
 <p align="left"> 
@@ -23,9 +34,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalles-leite&show_icons=true&locale=en&layout=compact" alt="thalles-leite" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalles-leite&" alt="thalles-leite" /></p>
 </br>
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=thalles-leite&label=Profile%20views&color=0e75b6&style=flat" alt="thalles-leite" /> </p>
 
