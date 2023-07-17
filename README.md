@@ -10,7 +10,7 @@
 ### Tenho experiência como Coordenador de Projetos na ADM Engenharia, liderei equipes multidisciplinares e garanti a entrega bem-sucedida de projetos de distribuição de média tensão, priorizando qualidade, prazos e conformidade técnica.
 
 
-- 👨‍💻 All of my projects are available at [https://thalles-leite.vercel.app/](https://thalles-leite.vercel.app/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://thalles-leite.vercel.app/](https://thalles-leite.vercel.app/)
 
 - 📫 Como chegar **eng.thallesleite@gmail.com**
 
