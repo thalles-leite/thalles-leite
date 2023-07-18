@@ -23,4 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+![Visitors](https://api.visitorbadge.io/api/visitors?path=thalles-leite&countColor=%23263759)
 [![](https://visitcount.itsvg.in/api?id=thalles-leite&icon=2&color=0)](https://visitcount.itsvg.in)
