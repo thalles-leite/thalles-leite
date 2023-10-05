@@ -1,5 +1,5 @@
 # Olá 👋, sou Thalles Leite
-## Desenvolvedor Web Front-End
+## Desenvolvedor Web 
 
 
 #### Engenheiro elétricista com especialização em Engenharia de Software, busco oportunidade como Desenvolvedor Web Front-End, em 2022, ingressei na Trybe, escola de tecnologia onde pude desenvolver diversos projetos e ampliar meus conhecimentos em HTML, CSS, JavaScript, React.js, Node.js, MySQL, Express e Jest, entre outras. Tenho experiência como Coordenador de Projetos na ADM Engenharia, liderei equipes multidisciplinares e garanti a entrega bem-sucedida de projetos de distribuição de média tensão, priorizando qualidade, prazos e conformidade técnica.
